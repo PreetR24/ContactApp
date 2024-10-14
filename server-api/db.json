@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "24573786-ff76-4d38-802b-e95211361f38",
+      "name": "teju",
+      "email": "teju@gmail.com"
+    },
+    {
+      "id": "fb9b042c-f317-49f2-b302-13b614581f8b",
+      "name": "Preet 3",
+      "email": "peet@gmail.com"
+    },
+    {
+      "id": "a7ca6068-79bc-4e20-ae83-ae6f630e65f1",
+      "name": "vanshika",
+      "email": "vanshika@gmail.com"
+    },
+    {
+      "id": "c39cb343-0e37-4c8d-a3a7-276974b28fe8",
+      "name": "preet",
+      "email": "preetrupapara2407@gmail.com"
+    },
+    {
+      "id": "18fa863b-24a6-47e1-be99-fbf76094a8e4",
+      "name": "Preet Pravinbhai2",
+      "email": "preetrupapara247@gmail.com"
+    },
+    {
+      "id": "e1f201a3-efec-4618-9504-2fed48a22b43",
+      "name": "sumit",
+      "email": "sumit@gmail.com"
+    }
+  ]
+}
